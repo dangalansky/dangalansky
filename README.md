@@ -8,5 +8,5 @@ I've covered everything from data scraping to game development (both text-based 
 <h3 align="center"><ins>Currently focused on:</ins></h3>
 <p align="center">WebDev with Flask, Jinja and Bootstrap</p><br>
 
-<h3 align="center">I'm here to connect with like-minds, to learn, to grow my skills</h3>
-<p align="center">Please reach out, i'm hungry for knowledge and loving every minute of this journey</p>
+<h3 align="center">I'm here to connect with like-minds, to learn, to grow my skills.</h3>
+<p align="center">Please reach out, i'm hungry for knowledge and loving every minute of this journey.</p>
