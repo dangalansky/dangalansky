@@ -7,6 +7,7 @@ I am currently completing the 100 Days of Python Course through London App Brewe
 I've covered everything from data scraping to game development (both text-based and GUI)<br> to web scraping and automation.<br></p>
 <h3 align="center"><ins>Currently focused on:</ins></h3>
 <p align="center">WebDev with Flask, Jinja and Bootstrap</p><br>
-
+<p align="center">WTForms</p><br>
+<p align="center">SQ Lite</p><br>
 <h3 align="center">I'm here to connect with like-minds, to learn, to grow my skills.</h3>
 <p align="center">Please reach out, i'm hungry for knowledge and loving every minute of this journey.</p>
