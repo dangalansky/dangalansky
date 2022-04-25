@@ -6,14 +6,14 @@
 I am currently completing the 100 Days of Python Course through London App Brewery.<br>
 I've covered everything from data parsing to game development (both text-based and GUI)<br> as well as web scraping and automation.<br></p>
 <h3 align="center"><ins>Currently focused on:</ins></h3>
-<p align="center">WebDev with Flask, Jinja and Bootstrap</p><br>
-<p align="center">WTForms</p><br>
-<p align="center">SQLite</p><br>
+<h4 align="center">
+WebDev with Flask, Jinja and Bootstrap<br>
+WTForms<br>
+SQLite<br>
 <h3 align="center">I'm here to connect with like-minds, to learn, to grow my skills.</h3>
 <h4 align="center"><ins>I am not currently employed or involved in a group project. Thus, I use GitHub primarily for:</ins><br> 
-  
-
-  <li>a repository for course notes
+  <br>
+  <li>a repository of my course notes
   <li>a cloud storage to show off some of what I have built 
   <li> a working resume
   </ul>  
