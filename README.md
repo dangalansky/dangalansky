@@ -10,5 +10,12 @@ I've covered everything from data parsing to game development (both text-based a
 <p align="center">WTForms</p><br>
 <p align="center">SQLite</p><br>
 <h3 align="center">I'm here to connect with like-minds, to learn, to grow my skills.</h3>
-<h4 align="center">I am not currently employed and am using GitHub as a repository for my notes and a cloud storage for what I have built</h4>
+<h4 align="center">I am not currently employed or involved in a group project.<br> 
+  Thus, I use GitHub primarily as:
+  <ul>
+  <li>a repository for course notes
+  <li>a cloud storage to show off some of what I have built 
+  <li> a working resume
+  </ul>  
+</h4>
 <p align="center">Please reach out, i'm hungry for knowledge and loving every minute of this journey.</p>
