@@ -10,4 +10,5 @@ I've covered everything from data parsing to game development (both text-based a
 <p align="center">WTForms</p><br>
 <p align="center">SQLite</p><br>
 <h3 align="center">I'm here to connect with like-minds, to learn, to grow my skills.</h3>
+<h4 align="center">I am not currently employed and am using GitHub as a repository for my notes and a cloud storage for what I have built</h4>
 <p align="center">Please reach out, i'm hungry for knowledge and loving every minute of this journey.</p>
