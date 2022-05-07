@@ -9,7 +9,9 @@ I've covered everything from data parsing to game development (both text-based a
 <h4 align="center">
 WebDev with Flask, Jinja and Bootstrap<br>
 WTForms<br>
-SQLite<br>
+SQLAlchemy<br>
+Authentication<br>
+(having a hard time wrapping 👆 my head around this one 😬)<br>
 <h3 align="center">I'm here to connect with like-minds, to learn, to grow my skills.</h3>
 <h4 align="center"><ins>I am not currently employed or involved in a group project. Thus, I use GitHub primarily for:</ins><br> 
   <br>
