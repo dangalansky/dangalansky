@@ -13,6 +13,7 @@ SQLAlchemy<br>
 Authentication<br>
 (having a hard time wrapping 👆 my head around this one 😬)<br>
 Pandas/Data Exploration<br>
+Graphing Data with Plotly and Matplotlib<br>
 <h3 align="center">I'm here to connect with like-minds, to learn, to grow my skills.</h3>
 <h4 align="center"><ins>I am not currently employed or involved in a group project. Thus, I use GitHub primarily for:</ins><br> 
   <br>
