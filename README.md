@@ -9,6 +9,7 @@ I've covered everything from data parsing to game development (both text-based a
 <h4 align="center">
 WebDev with Flask, Jinja and Bootstrap<br>
 WTForms<br>
+Automation using Selenium Webdriver<br>
 SQLAlchemy<br>
 Authentication<br>
 (having a hard time wrapping 👆 my head around this one 😬)<br>
