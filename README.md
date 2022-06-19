@@ -20,7 +20,7 @@ Graphing Data with Plotly and Matplotlib<br>
   <br>
   <li>a repository of my course notes
   <li>a cloud storage to show off some of what I have built 
-  <li> a working resume
+  <li>a working resume
   </ul>  
 </h4>
 <p align="center">Please reach out, i'm hungry for knowledge and loving every minute of this journey.</p>
