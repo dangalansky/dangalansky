@@ -7,14 +7,12 @@
 I've covered everything from data parsing to game development (both text-based and GUI)<br> as well as web scraping and automation.<br></p>
 <h3 align="center"><ins>Currently focused on:</ins></h3>
 <h4 align="center">
+Tkinter Game Development<br>
 WebDev with Flask, Jinja and Bootstrap<br>
-WTForms<br>
 Selenium Webdriver/Automation<br>
-SQLAlchemy<br>
 Authentication<br>
 (having a hard time wrapping 👆 my head around this one 😬)<br>
-Pandas/Data Exploration<br>
-Graphing Data with Plotly and Matplotlib<br>
+Pandas<br>
 <h3 align="center">I'm here to connect with like-minds, to learn, to grow my skills.</h3>
 <h4 align="center"><ins>I am not currently employed or involved in a group project. Thus, I use GitHub primarily for:</ins><br> 
   <br>
