@@ -1,7 +1,7 @@
 <img href="https://imgur.com/GorCOKi"><img src="https://i.imgur.com/GorCOKi.jpg" title="source: imgur.com"></img>
 <h1 align="center">My name is Dan Galansky<br>
 (he/him)
-<br>I'm new here!</h1> 
+<br></h1> 
 <p align="center">I began my coding journey in November of 2021 and immediately fell in love with the process.<br> 
   I am currently completing <ins><em>'100 Days of Code: The Complete Python Pro Bootcamp'</em></ins> through London App Brewery.<br>
 I've covered everything from data parsing to game development (both text-based and GUI)<br> as well as web scraping and automation.<br></p>
