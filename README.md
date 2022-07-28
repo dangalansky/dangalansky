@@ -7,8 +7,6 @@
 I've covered everything from data parsing to game development (both text-based and GUI)<br> as well as web scraping and automation.<br></p>
 <h3 align="center"><ins>Currently focused on:</ins></h3>
 <h4 align="center">
-  <li>Tkinter GUI/Game Development</li><br>
-  <li>Selenium Webdriver/Automation</li><br>
   <li>WebDev with Flask, Jinja and Bootstrap</li><br>
   <li>Project and Task Management with Notion</li><br>
 <h3 align="center">I'm here to connect with like-minds, to learn, to grow my skills.</h3>
