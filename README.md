@@ -3,7 +3,7 @@
 (he/him)
 <br></h1> 
 <p align="center">I began my coding journey in November of 2021 and immediately fell in love with the process.<br> 
-  I am currently completing <ins><em>'100 Days of Code: The Complete Python Pro Bootcamp'</em></ins> through London App Brewery.<br>
+  I completed <ins><em>'100 Days of Code: The Complete Python Pro Bootcamp'</em></ins> through London App Brewery.<br>
 I've covered everything from data parsing to game development (both text-based and GUI)<br> as well as web scraping and automation.<br></p>
 <h3 align="center"><ins>Currently focused on:</ins></h3>
 <h4 align="center">
