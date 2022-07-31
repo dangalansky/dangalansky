@@ -12,7 +12,7 @@ covering everything from data parsing to game development (both text-based and G
 <h3 align="center">I'm here to connect with like-minds, to learn, to grow my skills.</h3>
 <h4 align="center"><ins>I am not currently involved in a group project. Thus, I use GitHub primarily for:</ins><br> 
   <br>
-  <li>a cloud storage to share some of what I have built 
+  <li>a cloud storage to share what I am building with the world 
   <li>a working resume
   <li>a repository for my notes
 </h4>
