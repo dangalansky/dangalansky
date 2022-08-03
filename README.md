@@ -4,11 +4,14 @@
 <br></h1> 
 <p align="center">I began my coding journey in 2021 and immediately fell in love with the process.<br> 
 I've completed <ins><em>'100 Days of Code: The Complete Python Pro Bootcamp'</em></ins> through London App Brewery,<br>
-covering everything from data parsing to game development (both text-based and GUI)<br> as well as web scraping and automation.<br></p>
+covering everything from data parsing to game development (both text-based and GUI)<br> as well as web scraping and automation.<br>
+I am currently enrolled in a web development course, mostly focusing on JavaScript.
+</p>
+
 <h3 align="center"><ins>Currently focused on:</ins></h3>
 <h4 align="center">
   <li>WebDev with Flask, Jinja and Bootstrap</li><br>
-  <li>Javascript</li>
+  <li>Javascript</li><br>
   <li>Project and Task Management with Notion</li><br>
 <h3 align="center">I'm here to connect with like-minds, to learn, to grow my skills.</h3>
 <h4 align="center"><ins>I am not currently involved in a group project. Thus, I use GitHub primarily for:</ins><br> 
