@@ -10,8 +10,8 @@ covering everything from data parsing to game development (both text-based and G
 
 <h3 align="center"><ins>Currently focused on:</ins></h3>
 <h4 align="center">
-  <li>WebDev with Flask, Jinja and Bootstrap</li><br>
   <li>Javascript</li><br>
+  <li>WebDev with Flask, Jinja and Bootstrap</li><br>
   <li>Project and Task Management with Notion</li><br>
 <h3 align="center">I'm here to connect with like-minds, to learn, to grow my skills.</h3>
 <h4 align="center"><ins>I am not currently involved in a group project. Thus, I use GitHub primarily for:</ins><br> 
