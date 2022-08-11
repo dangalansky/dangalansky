@@ -2,7 +2,7 @@
 <h1 align="center">My name is Dan Galansky<br>
 (he/him)
 <br></h1> 
-<p align="center">Logo and brand design, GUI-based game and app development, and web automation are my specialities<br> but I am infinitely curious and always discovering new things.</p>
+<p align="center">Logo and brand design, GUI-based game and app development, and web automation are my specialities<br> but I am infinitely curious and always discovering new passions.</p>
 <h3 align="center"><ins>Currently focused on:</ins></h3>
 <h4 align="center">
   <li>Javascript</li><br>
