@@ -4,7 +4,7 @@
 <br></h1> 
 <p align="center">I began my coding journey in 2021 and immediately fell in love with the process.<br>
 I am currently enrolled in a web development course, mostly focusing on JavaScript.<br>
-I've completed <ins><em>'100 Days of Code: The Complete Python Pro Bootcamp'</em></ins> through London App Brewery,<br>
+I've completed <ins><em>'The Complete Python Pro Bootcamp'</em></ins> through London App Brewery,<br>
 covering everything from data parsing to game development (both text-based and GUI)<br> as well as web scraping and automation.<br>
 </p>
 
