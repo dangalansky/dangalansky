@@ -3,6 +3,11 @@
 (he/him)
 <br></h1> 
 <p align="center">Logo and brand design, GUI-based game and app development and web automation are my specialities<br> but I am infinitely curious and always discovering new things.</p>
+<h3 align="center"><ins>Currently focused on:</ins></h3>
+<h4 align="center">
+  <li>Javascript</li><br>
+  <li>WebDev with Flask, Jinja and Bootstrap</li><br>
+  <li>Project and Task Management with Notion</li><br>
 <h3 align="center"><ins>About Me:</ins></h3>
 <p align="center">I began my coding journey in 2021 and immediately fell in love with the process.<br>
 I am currently enrolled in a web development course, mostly focusing on JavaScript.<br>
@@ -10,16 +15,6 @@ I've completed <ins><em>'The Complete Python Pro Bootcamp'</em></ins> through Lo
 covering everything from data parsing to game development (both text-based and GUI)<br> as well as web scraping and automation.<br>
 </p>
 
-<h3 align="center"><ins>Currently focused on:</ins></h3>
-<h4 align="center">
-  <li>Javascript</li><br>
-  <li>WebDev with Flask, Jinja and Bootstrap</li><br>
-  <li>Project and Task Management with Notion</li><br>
-<h4 align="center"><ins>I am not currently involved in a group project. Thus, I use GitHub primarily for:</ins><br> 
-  <br>
-  <li>a cloud storage to share what I am building with the world 
-  <li>a working resume
-  <li>a repository for my notes
-</h4>
-<p align="center">Please reach out, i'm hungry for knowledge and loving every minute of this journey.</p>
+
+
 
