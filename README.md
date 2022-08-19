@@ -5,7 +5,7 @@
 <p align="center">Logo and brand design, GUI-based game and app development, and web automation are my specialities<br> but I am infinitely curious and always discovering new passions.</p>
 <h3 align="center"><ins>Currently focused on:</ins></h3>
 <h4 align="center">
-  <li>Python</li>
+  <li>Python</li><br>
   <li>Javascript/JQuery</li><br>
   <li>WebDev with Flask, Jinja and Bootstrap</li><br>
   <li>Project and Task Management with Notion</li><br>
