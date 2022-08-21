@@ -6,7 +6,7 @@
 <h3 align="center"><ins>Skills:</ins></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,jquery,html,css,flask,bootstrap,selenium,atom,ai,ps,ableton,stackoverflow,discord" />
+    <img src="https://skillicons.dev/icons?i=py,js,jquery,html,css,flask,bootstrap,selenium,atom,ai,ps,ableton,stackoverflow,discord&perline=7" />
   </a>
 </p>
 <h3 align="center"><ins>Currently focused on:</ins></h3>
