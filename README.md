@@ -11,7 +11,7 @@
 </p>
 <h3 align="center"><ins>Currently focused on:</ins></h3>
 <h4 align="center">
-  <li>Digital Image Processing with Python</li><br>
+  <li>Digital Image Processing with OpenCV</li><br>
   <li>Javascript/JQuery</li><br>
   <li>WebDev with Flask, Jinja and Bootstrap</li><br>
   <li>Project and Task Management with Notion</li><br>
