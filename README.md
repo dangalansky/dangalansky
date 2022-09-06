@@ -2,7 +2,7 @@
 <h1 align="center">My name is Dan Galansky<br>
 (he/him)
 <br></h1> 
-<p align="center">Logo and brand design, GUI-based game and app development, and web automation are my specialities<br> but I am infinitely curious and always discovering new passions.</p>
+<p align="center">My passions lie where visual design meets software development.<br>My process is based in playfulness, wonder and endless inquiry.<br>I am self-directed, dependable, infinitely curious and always discovering new passions.<br>If you'd like to collaborate reach out to me via Twitter or Linked In.</p>
 <h3 align="center"><ins>Skills:</ins></h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,js,jquery,html,css,flask,bootstrap,selenium,atom,ai,ps,ableton,stackoverflow,discord&perline=7" />
@@ -15,10 +15,7 @@
   <li>WebDev with Flask, Jinja and Bootstrap</li><br>
   <li>Project and Task Management with Notion</li><br>
 <h3 align="center"><ins>About Me:</ins></h3>
-<p align="center">I began my coding journey in 2021 and immediately fell in love with the process.<br>
-I am currently enrolled in a web development course, mostly focusing on JavaScript.<br>
-I've completed <ins><em>'The Complete Python Pro Bootcamp'</em></ins> through London App Brewery,<br>
-covering everything from data parsing to game development (both text-based and GUI)<br> as well as web scraping and automation.<br>
+<p align="center">I've been a million things: musician, artist, mechanic, student, teacher, programmer, cook but always a creative. I began my coding journey in 2021 and immediately fell in love with the process. I am currently enrolled in a Python for CV/Deep Learning course, furthering my understanding of digital image processing. I've completed multiple courses, covering everything from data parsing to app and web development as well as web scraping and automation.<br>
 </p>
 
 
