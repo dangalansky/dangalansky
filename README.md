@@ -2,7 +2,7 @@
 <h1 align="center">My name is Dan Galansky<br>
 (he/him)
 <br></h1> 
-<p align="center">My passions lie where visual design meets software development.<br>I am self-directed, dependable, infinitely curious and always discovering new passions.<br>If you'd like to collaborate reach out to me via Twitter or Linked In.</p>
+<p align="center">My interests lie where visual design meets software development.<br>I am self-directed, dependable, infinitely curious and always discovering new passions.<br>If you'd like to collaborate reach out to me via Twitter or Linked In.</p>
 <h3 align="center"><ins>Skills:</ins></h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,js,jquery,html,css,flask,bootstrap,selenium,atom,ai,ps,ableton,stackoverflow,discord&perline=7" />
