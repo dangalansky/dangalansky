@@ -15,7 +15,7 @@
   <li>WebDev with Flask, Jinja and Bootstrap</li><br>
   <li>Project and Task Management with Notion</li><br>
 <h3 align="center"><ins>About Me:</ins></h3>
-<p align="center">I've been a million things: musician, artist, mechanic, student, teacher, programmer, chef but always a creative. I began my coding journey in 2021 and immediately fell in love with the process. I am currently enrolled in a Python for CV/Deep Learning course, furthering my understanding of digital image processing. I've completed multiple courses, covering everything from data parsing to app and web development as well as web scraping and automation.<br>
+<p align="center">I've been a million things: musician, artist, mechanic, student, teacher, programmer, chef but always a creative. I began my coding journey in 2021 and immediately fell in love with the process. I am currently enrolled in a Python for CV/Deep Learning course, furthering my understanding of digital image processing and computer learning. I've completed multiple courses, covering everything from data parsing to app and web development as well as web scraping and automation.<br>
 </p>
 
 
