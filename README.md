@@ -15,7 +15,7 @@
   <li>WebDev with Flask, Jinja and Bootstrap</li><br>
   <li>Project and Task Management with Notion</li><br>
 <h3 align="center"><ins>About Me:</ins></h3>
-<p align="center">I've been a million things: musician, artist, mechanic, student, teacher, programmer, chef but always a creative. Pivoting away from a focus in digital graphic design, I began my coding journey in 2021 and immediately fell in love with the process. I am currently enrolled in a Python for CV/Deep Learning course, furthering my understanding of digital image processing and computer learning. In my year of coding-focused exploration, I've built everything from desktop apps and image processors to data parsers, webscrapers and bots.<br>
+<p align="center">I've been a million things: musician, artist, mechanic, student, teacher, programmer, chef but always a creative. Pivoting away from a focus in digital graphic design, I began my coding journey in 2021 and immediately fell in love with the process. I am currently exploring OpenCV for Python, furthering my understanding of digital image processing, computer vision/object recognition and deep learning. In my year of coding-focused exploration, I've built everything from desktop apps and image processors to data parsers, webscrapers and bots.<br>
 </p>
 
 
