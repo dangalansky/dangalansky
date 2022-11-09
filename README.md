@@ -2,7 +2,8 @@
 <h1 align="center">My name is Dan Galansky<br>
 (he/him)
 <br></h1> 
-<p align="center">My interests lie where visual design meets software development.<br>I am self-directed, infinitely curious and always discovering new passions.<br>If you'd like to collaborate reach out to me via Twitter or Linked In.</p>
+<p align="center">
+My interests lie where visual design meets software development.<br> I am a self-directed autodidact, infinitely curious, and always discovering new passions.<br>If you'd like to collaborate reach out to me via Twitter or Linked In.</p>
 <h3 align="center"><ins>Skills:</ins></h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,js,jquery,react,html,css,flask,bootstrap,figma,selenium,atom,ai,ps,ableton,stackoverflow,discord&perline=16"/>
@@ -15,7 +16,7 @@
   <li>Digital Image Processing with OpenCV</li><br>
   <li>Project and Task Management with Notion</li><br>
 <h3 align="center"><ins>About Me:</ins></h3>
-<p align="center">I've been a million things: musician, artist, mechanic, student, teacher, programmer, chef but always a creative. Pivoting away from a focus in digital graphic design, I began my coding journey in 2021 and immediately fell in love with the process. I am currently exploring OpenCV for Python, furthering my understanding of digital image processing, computer vision/object recognition and deep learning. In my year of coding-focused exploration, I've built everything from desktop apps and image processors to data parsers, webscrapers and bots.<br>
+<p align="center">I've been a million things: musician, artist, mechanic, student, teacher, programmer, chef but always a creative. Pivoting away from a focus in digital graphic design, I began my coding journey and immediately fell in love with the process. Currently, I am exploring Figma, furthering my understanding of UI/UX design and its intersection with React JS. I have a background in Python and Javascript and my experience spans desktop apps, image processing, data parsing, web scraping, bots, and image recognition through deep learning and AI technologies.<br>
 </p>
 
 
