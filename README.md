@@ -3,7 +3,7 @@
 (he/him)
 <br></h1> 
 <p align="center">
-My interests lie where visual design meets software development.<br> I am a self-directed autodidact, infinitely curious, and always discovering new passions.<br>If you'd like to collaborate reach out to me via Twitter or Linked In.</p>
+My interests lie where visual design meets software development.<br> I am a self-directed, autodidactic, infinitely curious, and always discovering new passions.<br>If you'd like to collaborate reach out to me via Twitter or Linked In.</p>
 <h3 align="center"><ins>Skills:</ins></h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,js,jquery,react,html,css,flask,bootstrap,figma,selenium,atom,ai,ps,ableton,stackoverflow,discord&perline=16"/>
