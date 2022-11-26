@@ -12,7 +12,8 @@ My interests lie where visual design meets software development.<br> I am self-d
 <h3 align="center"><ins>Currently focused on:</ins></h3>
 <h4 align="center">
   <li>UI/UX and Figma</li><br>
-  <li>WebDev with React.js</li><br>
+  <li>React.Js</li><br>
+  <li>Gatsby</li><br> 
   <li>Digital Image Processing with OpenCV</li><br>
   <li>Project and Task Management with Notion</li><br>
 <h3 align="center"><ins>About Me:</ins></h3>
