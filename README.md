@@ -17,7 +17,7 @@ My interests lie where visual design meets software development.<br> I am self-d
   <li>Digital Image Processing with OpenCV</li><br>
   <li>Project and Task Management with Notion</li><br>
 <h3 align="center"><ins>About Me:</ins></h3>
-<p align="center">I've worn many hats: musician, artist, mechanic, student, teacher, programmer, chef; but i've always found a home under the creative umbrella. Pivoting away from a focus in digital graphic design, I began my coding journey and immediately fell in love with the process. I have a background in Python and Javascript and my experience spans desktop apps, digital image processing, data parsing, web scraping, bots, and image recognition through deep learning and AI technologies. I'm far from an expert but I am passionate about the things I make.<br>
+<p align="center">I've worn many hats: musician, artist, mechanic, student, teacher, programmer, chef; but i've always found a home under the creative umbrella. Pivoting away from a focus in digital graphic design, I began my coding journey and immediately fell in love with the process. I have a background in Python and Javascript and my experience spans desktop apps, digital image processing, data parsing, web scraping, bots, and image recognition through deep learning and AI technologies. I'm far from an expert but I am passionate about the things I create.<br>
 </p>
     
    
