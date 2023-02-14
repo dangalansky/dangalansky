@@ -3,7 +3,7 @@
 (he/him)
 <br></h1> 
 <p align="center">
-My interests lie where visual design meets software development.<br> I am self-directed, infinitely curious, and always discovering new passions.<br>Available for hire! Please reach out: <a href="http://www.dangalansky.com">dangalansky.com</a></p>
+My interests lie where visual design meets software development.<br> I am self-directed, infinitely curious, and always discovering new passions.<br>Interested in collaborations of all sorts! Please reach out: <a href="http://www.dangalansky.com">dangalansky.com</a></p>
 <h3 align="center"><ins>Skills:</ins></h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,js,jquery,react,nodejs,html,css,gatsby,flask,bootstrap,figma,selenium,atom,ai,ps,ableton,stackoverflow,discord&perline=9"/>
